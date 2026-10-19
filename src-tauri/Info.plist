@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- Merged into the bundled app so the webview may capture voice notes. -->
+  <key>NSMicrophoneUsageDescription</key>
+  <string>MasonDesk records voice notes with the microphone so they can be sent to your Mason gateway.</string>
+</dict>
+</plist>
